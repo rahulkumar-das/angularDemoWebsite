@@ -10,7 +10,7 @@ const httpOptions = {
 
 @Injectable()
 export class PostService {
-  postsUrl: string = 'https://cors-anywhere.herokuapp.com/https://jsonplaceholder.typicode.com/posts';
+  postsUrl: string = 'https://jsonplaceholder.typicode.com/posts';
 
   constructor(private http: HttpClient) { }
 
