@@ -1,6 +1,8 @@
 # AngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+It is possible that there may be some issue on GET call based on browser CORS policy. The website runs properly on localhost. I'll suggest clone the repository and add more features to it. It is my first try on Angular framework.
+See the live demo [https://rahulkumar-das.github.io/angularDemoWebsite/]
 
 ## Development server
 
